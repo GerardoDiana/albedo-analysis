@@ -2,14 +2,9 @@
 This repository contains samples scripts and common functions for reading and exporting Neo4j graphical data.
 
 ## Contents
-**UNDER CONSTRUCTION**
 
-**TODO**: replace hyperlinks
 - [GSA_AlbedoProd_GOES_075_VIS02_2000_181.nc](https://drive.google.com/file/d/1ZMh3pEryyNlYxy4lgp489y9tHrsBMgub/view?usp=sharing) : the data is stored in a NetCDF file and contains the albedo (the proportion of the incident light or radiation that is reflected by a surface) over the region of South America.
-- [NetCDF_spatialGP.ipynb](https://github.com/GerardoDiana/albedo-analysis/blob/main/NetCDF_SpatialGP.ipynb) : This notebook contains the data preprocessing and model fitting and predicting of a Gaussian process using a Standard Variational Approximation method with inducing points.
-**TODO**: Add a repository containing the R codes for a implementation using sp_bayes, and add a descriptsion
-- [r_implementation/](https://www.google.com) : directory containing R codes
-- [Written Report](https://www.google.com) : write-up for the analysis using and Bayesian exact GP.
+- [netcdf_spatialGP_extension.ipynb](https://github.com/GerardoDiana/albedo-analysis/blob/main/NetCDF_SpatialGP.ipynb) : This notebook contains the data preprocessing and model fitting and predicting of a Gaussian process using a Standard Variational Approximation method with inducing points.
 
 
 ## Python virtual environment instructions
