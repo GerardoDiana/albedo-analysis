@@ -4,7 +4,7 @@ This repository contains samples scripts and common functions for reading and ex
 ## Contents
 
 - [GSA_AlbedoProd_GOES_075_VIS02_2000_181.nc](https://drive.google.com/file/d/1ZMh3pEryyNlYxy4lgp489y9tHrsBMgub/view?usp=sharing) : the data is stored in a NetCDF file and contains the albedo (the proportion of the incident light or radiation that is reflected by a surface) over the region of South America.
-- [netcdf_spatialGP_extension.ipynb](https://github.com/GerardoDiana/albedo-analysis/blob/main/NetCDF_SpatialGP.ipynb) : This notebook contains the data preprocessing and model fitting and predicting of a Gaussian process using a Standard Variational Approximation method with inducing points.
+- [netcdf_spatialGP_extension.ipynb](https://github.com/GerardoDiana/albedo-analysis/blob/main/netcdf_spatialGP_extension.ipynb) : This notebook contains the data preprocessing and model fitting and predicting of a Gaussian process using a Standard Variational Approximation method with inducing points.
 
 
 ## Python virtual environment instructions
